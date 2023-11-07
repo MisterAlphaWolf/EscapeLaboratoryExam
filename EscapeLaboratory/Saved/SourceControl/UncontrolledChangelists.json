@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UnrealEngine/Exam/EscapeLaboratoryExam/EscapeLaboratory/Content/EurileneGene/Inputs/IMC_Movement.uasset",
+				"E:/UnrealEngine/Exam/EscapeLaboratoryExam/EscapeLaboratory/Content/EurileneGene/Core/BP_Body.uasset",
+				"E:/UnrealEngine/Exam/EscapeLaboratoryExam/EscapeLaboratory/Content/EurileneGene/Inputs/InputAction/IA_Movement.uasset",
+				"E:/UnrealEngine/Exam/EscapeLaboratoryExam/EscapeLaboratory/Content/EurileneGene/Inputs/InputAction/IA_Look.uasset",
+				"E:/UnrealEngine/Exam/EscapeLaboratoryExam/EscapeLaboratory/Content/ScienceLab/SecuritySystem/AC_0X00A21E.uasset",
+				"E:/UnrealEngine/Exam/EscapeLaboratoryExam/EscapeLaboratory/Content/ScienceLab/Blueprints/Rooms/Doors/BP_LabDoor03.uasset",
+				"E:/UnrealEngine/Exam/EscapeLaboratoryExam/EscapeLaboratory/Content/ScienceLab/Blueprints/BP_BrokenDoor.uasset",
+				"E:/UnrealEngine/Exam/EscapeLaboratoryExam/EscapeLaboratory/Content/ScienceLab/MAPS/Showcase.umap",
+				"E:/UnrealEngine/Exam/EscapeLaboratoryExam/EscapeLaboratory/Content/ScienceLab/Blueprints/Rooms/Lift/BP_Lift03.uasset",
+				"E:/UnrealEngine/Exam/EscapeLaboratoryExam/EscapeLaboratory/Content/ScienceLab/Blueprints/Rooms/Lift/BP_Lift04.uasset",
+				"E:/UnrealEngine/Exam/EscapeLaboratoryExam/EscapeLaboratory/Content/ScienceLab/Blueprints/RailingPlatform132_Blueprint.uasset",
+				"E:/UnrealEngine/Exam/EscapeLaboratoryExam/EscapeLaboratory/Content/ScienceLab/SecuritySystem/DT_users.uasset",
+				"E:/UnrealEngine/Exam/EscapeLaboratoryExam/EscapeLaboratory/Content/ScienceLab/SecuritySystem/BPI_San1taryComputer.uasset",
+				"E:/UnrealEngine/Exam/EscapeLaboratoryExam/EscapeLaboratory/Content/ScienceLab/SecuritySystem/BP_San1taryComputer.uasset",
+				"E:/UnrealEngine/Exam/EscapeLaboratoryExam/EscapeLaboratory/Content/EurileneGene/Inputs/InputAction/IA_NPI.uasset",
+				"E:/UnrealEngine/Exam/EscapeLaboratoryExam/EscapeLaboratory/Content/ScienceLab/Blueprints/Rooms/Doors/BP_LabDoor01.uasset",
+				"E:/UnrealEngine/Exam/EscapeLaboratoryExam/EscapeLaboratory/Content/EurileneGene/Inputs/InputAction/IA_MovementRight.uasset",
+				"E:/UnrealEngine/Exam/EscapeLaboratoryExam/EscapeLaboratory/Content/EurileneGene/Inputs/InputAction/IA_MovementForward.uasset",
+				"E:/UnrealEngine/Exam/EscapeLaboratoryExam/EscapeLaboratory/Content/EurileneGene/Inputs/InputAction/IA_LookUp.uasset"
+			]
+		}
+	]
+}
